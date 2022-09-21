@@ -1,0 +1,11 @@
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\İngilizce Bilgi Yarışması\İngilizce Bilgi Yarışması\bin\Debug\İngilizce Bilgi Yarışması.exe.config
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\İngilizce Bilgi Yarışması\İngilizce Bilgi Yarışması\bin\Debug\İngilizce Bilgi Yarışması.exe
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\İngilizce Bilgi Yarışması\İngilizce Bilgi Yarışması\bin\Debug\İngilizce Bilgi Yarışması.pdb
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\İngilizce Bilgi Yarışması\İngilizce Bilgi Yarışması\obj\Debug\İngilizce Bilgi Yarışması.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\İngilizce Bilgi Yarışması\İngilizce Bilgi Yarışması\obj\Debug\İngilizce Bilgi Yarışması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\İngilizce Bilgi Yarışması\İngilizce Bilgi Yarışması\obj\Debug\İngilizce_Bilgi_Yarışması.Form1.resources
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\İngilizce Bilgi Yarışması\İngilizce Bilgi Yarışması\obj\Debug\İngilizce_Bilgi_Yarışması.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\İngilizce Bilgi Yarışması\İngilizce Bilgi Yarışması\obj\Debug\İngilizce Bilgi Yarışması.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\İngilizce Bilgi Yarışması\İngilizce Bilgi Yarışması\obj\Debug\İngilizce Bilgi Yarışması.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\İngilizce Bilgi Yarışması\İngilizce Bilgi Yarışması\obj\Debug\İngilizce Bilgi Yarışması.exe
+C:\Users\Yusuf\source\repos\Ders\Ders\Dersler\İngilizce Bilgi Yarışması\İngilizce Bilgi Yarışması\obj\Debug\İngilizce Bilgi Yarışması.pdb
